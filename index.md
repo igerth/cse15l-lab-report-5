@@ -1,6 +1,6 @@
 # Lab Report 5
 
-In this lab report, I am going to be finishing / tweaking my grading script from Lab 6 and showing that it working on several files. 
+In this lab report, I am going to be finishing / tweaking my grading script from Lab 6 and showing that it works on several files. 
 
 ![Image](https://github.com/igerth/cse15l-lab-report-5/blob/main/Screenshot%202023-03-13%20at%202.18.25%20PM.png?raw=true)
 
